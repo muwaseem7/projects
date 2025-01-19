@@ -12,7 +12,7 @@ export default function AboutSection() {
           leftDisplay={
             <div className="w-full h-full relative flex items-center justify-center">
               <Image
-                src="/muhammad-visionx.png"
+                src="/muhammad-visionx2.png"
                 alt="About Photo"
                 width={400}
                 height={400}
