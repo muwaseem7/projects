@@ -34,18 +34,18 @@ export default function Home() {
           property="og:title"
           content="Muhammad Waseem - Mechanical Engineer"
         />
-        <meta property="og:link" content="https://muwaseem.ca/" />
+        <meta property="og:link" content="https://muhwaseem.com/" />
         <meta
           property="og:description"
           content="I am a Mechanical Engineering Student at Toronto Metropolitan University who has worked on several groundbreaking projects. With my knowledge in Java, Python, SolidWorks, and many more programs and languages, I continue to develop amazing projects that aim to change the world."
         />
         <meta
           property="og:image"
-          content="https://www.muwaseem.ca/images/visionx/visionx-1.jpg"
+          content="https://www.muhwaseem.com/images/visionx/visionx-1.jpg"
         />
 
-        <link rel="amphtml" href="https://www.muwaseem.ca/index_amp" />
-        <link rel="canonical" href="https://muwaseem.ca/" />
+        <link rel="amphtml" href="https://www.muhwaseem.com/index_amp" />
+        <link rel="canonical" href="https://muhwaseem.com/" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
@@ -59,7 +59,7 @@ export default function Home() {
           <div className="absolute fade-image -bottom-[37vw] left-[35%] z-50">
             <Fade>
               <img
-                src="/muhammad-visionx2.png"
+                src=""
                 className="w-[30vw]"
                 alt="Muhammad Waseem"
               />
